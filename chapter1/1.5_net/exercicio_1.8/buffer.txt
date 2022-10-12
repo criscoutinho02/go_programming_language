@@ -1,0 +1,479 @@
+http://www.jusbrasil.com.br
+200 OK
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Jusbrasil - Informação Jurídica que Transforma</title><meta name="description" content="Acesse o Jusbrasil para Consulta Processual, Pesquisa de Jurisprudência, Doutrina, Modelos de Petições, Peças e mais com Busca Unificada. ✓ Informação que transforma."/>
+<meta name="keywords" content="Jusbrasil, Jus, Consulta Processual, Consulta Processual Jusbrasil, Pesquisar processos, Pesquisar processos nos tribunais, Jurisprudência, Consulta de Jurisprudência, Doutrina Jurídica, Petições Jurídicas, Peças Processuais, Modelos de Petições, Legislação, Leis, Artigos, Decretos, Medidas Provisórias, Ementas, Diários Oficiais, DOU, Diário Oficial, Encontrar um advogado, Busca de Advogados, Diretório de Advogados, Artigos Jurídicos, Notícias Jurídicas, Artigos do Direito, Notícias sobre Direito, Precedentes, Assessoria Jurídica"/>
+
+<meta property="og:site_name" content="Jusbrasil"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://www.jusbrasil.com.br"/>
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Jusbrasil">
+<meta property="og:title" content="Jusbrasil - Informação Jurídica que Transforma"/>
+<meta property="og:description" content="Acesse o Jusbrasil para Consulta Processual, Pesquisa de Jurisprudência, Doutrina, Modelos de Petições, Peças e mais com Busca Unificada. ✓ Informação que transforma."/>
+<meta property="og:image" content="https://static.jusbr.com/images/logo/logo-jusbrasil-1200-675.png"/>
+<meta property="og:image:alt" content="Jusbrasil - Informação Jurídica que Transforma"/>
+<meta property="og:image:type" content="image/png"/>
+
+<meta property="fb:app_id" content="134127759984029"/>
+<meta property="fb:admins" content="100001621943031"/>
+<meta name="robots" content="index,follow"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="675"/><link rel="stylesheet" type="text/css" href="//static.jusbr.com/mystique/3.2.7/css/mystique.min.css"><script type="text/javascript">
+  window._ctx = {
+    formProperties: JSON.parse('{}'),
+    formBuilder: JSON.parse('{"enabled":false,"setupId":"6217edd78cf471001dd3a52e","version":"new-search-home-default","landingSlug":"home","layoutSlug":"new-search-home","setupSlug":"default","source":"ALL","debug":false}'),
+    sixpack: JSON.parse('{"clientId":"646e9f44-217d-4bcc-9294-16c8680fa493"}'),
+    argos: JSON.parse('{}'),
+    user: JSON.parse('null'),
+    isMobile: false,
+    referrer: 'http://www.jusbrasil.com.br',
+    environment: 'production'
+  };
+</script>
+<script>
+var JB = {}, _qf = [], _jbr = [];
+var $ = function(f) { window.jQuery ? window.jQuery(f) : _qf.push(f); };
+(function(){
+  var tryfn = function(f) { try{ f(); } catch(e){console.error(e)} };
+  JB.ready = function(f) { _jbr ? _jbr.push(f) : f(); };
+  JB.init = function(){
+    _jbr.forEach(tryfn);
+    _qf.forEach(tryfn);
+    _jbr = null;
+  }
+})();
+</script>
+<link rel="canonical" href="https://www.jusbrasil.com.br">
+<link rel="stylesheet" href="//static.jusbr.com/deadpool/home/new-search-home/css/index-845dc42a.css"><script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+  <body class="unlogged"><script>window.dataLayer = [];</script><script>
+dataLayer.push({ environment: 'production' });
+dataLayer.push({ enable_google_analytics: true, cookie_domain: 'jusbrasil.com.br' });
+dataLayer.push({ argos_enabled: true });
+dataLayer.push({ 'user.device_id': '' });
+
+(function () {
+  var context = window._ctx || {};
+  var { experiment_name, landing_variant, participating } = context.argos || {};
+
+  if (participating) {
+    dataLayer.push({
+      'experiment.name': experiment_name,
+      'experiment.variation': landing_variant,
+    });
+  }
+})();
+
+window.onload = function() {
+  dataLayer.push({ event: 'gtm.tagLoaded' });
+};
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6Z3XD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K6Z3XD');</script>
+<!-- End Google Tag Manager --><style>body {padding-top: 80px !important;}</style><link href="https://static.jusbr.com/topbar/css/topbar.3B-oo.css" rel="stylesheet" type="text/css"><link href="/i?1661223633930" rel="preload" as="image"><div class="JB-2"> <topbar-flat><nav class="topbar-flat"><div class="topbar-flat-actions"><signup-buttons base-url="https://www.jusbrasil.com.br" current-url="/"><div class="signup-buttons"><a class="btn btn--flat topbar-flat-signin" href="https://www.jusbrasil.com.br/login?next_url=%2F">Entrar </a><a class="btn topbar-flat-btn" href="https://www.jusbrasil.com.br/cadastro?next_url=%2F">Cadastre-se</a></div></signup-buttons><div class="topbar-flat-hamburger-wrapper"><button class="btn btn--flat btn--icon topbar-flat-btnIcon" role="button"><span class="icon icon-menu"></span></button></div><div class="topbar-flat-menu"><div class="topbar-flat-menu-header"><span class="topbar-flat-menu-title">Menu</span> <button class="btn btn--flat btn--icon topbar-flat-btnIcon" role="button"><span class="icon icon-close"></span></button></div><div class="topbar-flat-menu-items"><ul class="topbar-flat-menu-list"><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/consulta-processual/"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M15 4H5v16h14V8h-4V4zM3 2.992C3 2.444 3.447 2 3.999 2H16l5 5v13.993A1 1 0 0120.007 22H3.993A1 1 0 013 21.008V2.992zm10.529 11.454a4.002 4.002 0 01-4.86-6.274 4 4 0 016.274 4.86l2.21 2.21-1.414 1.415-2.21-2.21v-.001zm-.618-2.032a2 2 0 10-2.78-2.877 2 2 0 002.78 2.877z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M15 4H5v16h14V8h-4V4zM3 2.992C3 2.444 3.447 2 3.999 2H16l5 5v13.993A1 1 0 0120.007 22H3.993A1 1 0 013 21.008V2.992zm10.529 11.454a4.002 4.002 0 01-4.86-6.274 4 4 0 016.274 4.86l2.21 2.21-1.414 1.415-2.21-2.21v-.001zm-.618-2.032a2 2 0 10-2.78-2.877 2 2 0 002.78 2.877z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Consulta processual</p><p class="topbar-flat-menu-item-description">Visualize publicações e outras informações sobre o seus processos.</p></div></a></li><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/jurisprudencia/"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M3 10H2V4.003C2 3.449 2.455 3 2.992 3h18.016A.99.99 0 0122 4.003V10h-1v10.001a.996.996 0 01-.993.999H3.993A.995.995 0 013 20.001V10zm16 0H5v9h14v-9zM4 5v3h16V5H4zm5 7h6v2H9v-2z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M3 10H2V4.003C2 3.449 2.455 3 2.992 3h18.016A.99.99 0 0122 4.003V10h-1v10.001a.996.996 0 01-.993.999H3.993A.995.995 0 013 20.001V10zm16 0H5v9h14v-9zM4 5v3h16V5H4zm5 7h6v2H9v-2z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Jurisprudência</p><p class="topbar-flat-menu-item-description">Decisões de todos os Tribunais, com busca unificada e gratuita.</p></div></a></li><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/doutrina/"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M3 18.5V5a3 3 0 013-3h14a1 1 0 011 1v18a1 1 0 01-1 1H6.5A3.5 3.5 0 013 18.5zM19 20v-3H6.5a1.5 1.5 0 100 3H19zM10 4H6a1 1 0 00-1 1v10.337A3.485 3.485 0 016.5 15H19V4h-2v8l-3.5-2-3.5 2V4z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M3 18.5V5a3 3 0 013-3h14a1 1 0 011 1v18a1 1 0 01-1 1H6.5A3.5 3.5 0 013 18.5zM19 20v-3H6.5a1.5 1.5 0 100 3H19zM10 4H6a1 1 0 00-1 1v10.337A3.485 3.485 0 016.5 15H19V4h-2v8l-3.5-2-3.5 2V4z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Doutrina</p><p class="topbar-flat-menu-item-description">Busque trechos por tema num acervo de obras da Revista dos Tribunais.</p></div></a></li><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/diarios/"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M20 2a3 3 0 013 3v2h-2v12a3 3 0 01-3 3H4a3 3 0 01-3-3v-2h16v2a1 1 0 00.883.993L18 20a1 1 0 00.993-.883L19 19V4H6a1 1 0 00-.993.883L5 5v10H3V5a3 3 0 013-3h14z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M20 2a3 3 0 013 3v2h-2v12a3 3 0 01-3 3H4a3 3 0 01-3-3v-2h16v2a1 1 0 00.883.993L18 20a1 1 0 00.993-.883L19 19V4H6a1 1 0 00-.993.883L5 5v10H3V5a3 3 0 013-3h14z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Diários Oficiais</p><p class="topbar-flat-menu-item-description">Pesquise e navegue nos Diários Oficiais da União, dos Estados e dos Municípios.</p></div></a></li><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/pecas/"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M21 3a1 1 0 011 1v14a1 1 0 01-1 1H6.455L2 22.5V4a1 1 0 011-1h18zm-1 2H4v13.385L5.763 17H20V5zm-9.485 2.412l.447.688c-1.668.903-1.639 2.352-1.639 2.664.155-.02.318-.024.48-.009a1.761 1.761 0 011.613 1.745 1.75 1.75 0 01-1.75 1.75c-.537 0-1.05-.245-1.374-.59-.515-.546-.792-1.16-.792-2.155 0-1.75 1.228-3.318 3.015-4.093zm5 0l.447.688c-1.668.903-1.639 2.352-1.639 2.664.155-.02.318-.024.48-.009a1.761 1.761 0 011.613 1.745 1.75 1.75 0 01-1.75 1.75c-.537 0-1.05-.245-1.374-.59-.515-.546-.792-1.16-.792-2.155 0-1.75 1.228-3.318 3.015-4.093z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M21 3a1 1 0 011 1v14a1 1 0 01-1 1H6.455L2 22.5V4a1 1 0 011-1h18zm-1 2H4v13.385L5.763 17H20V5zm-9.485 2.412l.447.688c-1.668.903-1.639 2.352-1.639 2.664.155-.02.318-.024.48-.009a1.761 1.761 0 011.613 1.745 1.75 1.75 0 01-1.75 1.75c-.537 0-1.05-.245-1.374-.59-.515-.546-.792-1.16-.792-2.155 0-1.75 1.228-3.318 3.015-4.093zm5 0l.447.688c-1.668.903-1.639 2.352-1.639 2.664.155-.02.318-.024.48-.009a1.761 1.761 0 011.613 1.745 1.75 1.75 0 01-1.75 1.75c-.537 0-1.05-.245-1.374-.59-.515-.546-.792-1.16-.792-2.155 0-1.75 1.228-3.318 3.015-4.093z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Peças Processuais</p><p class="topbar-flat-menu-item-description">Estude estratégias de casos e argumentos jurídicos em peças processuais que foram protocoladas em processos reais.</p></div></a></li><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/modelos-pecas/"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M3 10H2V4.003C2 3.449 2.455 3 2.992 3h18.016A.99.99 0 0122 4.003V10h-1v10.001a.996.996 0 01-.993.999H3.993A.995.995 0 013 20.001V10zm16 0H5v9h14v-9zM4 5v3h16V5H4zm5 7h6v2H9v-2z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M3 10H2V4.003C2 3.449 2.455 3 2.992 3h18.016A.99.99 0 0122 4.003V10h-1v10.001a.996.996 0 01-.993.999H3.993A.995.995 0 013 20.001V10zm16 0H5v9h14v-9zM4 5v3h16V5H4zm5 7h6v2H9v-2z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Modelos</p><p class="topbar-flat-menu-item-description">Pesquise modelos de documentos jurídicos elaborados por advogados da comunidade Jusbrasil.</p></div></a></li><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/legislacao/"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M2 20h20v2H2v-2zm2-8h2v7H4v-7zm5 0h2v7H9v-7zm4 0h2v7h-2v-7zm5 0h2v7h-2v-7zM2 7l10-5 10 5v4H2V7zm2 1.236V9h16v-.764l-8-4-8 4zM12 8a1 1 0 110-2 1 1 0 010 2z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M2 20h20v2H2v-2zm2-8h2v7H4v-7zm5 0h2v7H9v-7zm4 0h2v7h-2v-7zm5 0h2v7h-2v-7zM2 7l10-5 10 5v4H2V7zm2 1.236V9h16v-.764l-8-4-8 4zM12 8a1 1 0 110-2 1 1 0 010 2z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Legislação</p><p class="topbar-flat-menu-item-description">Legislação brasileira atualizada diariamente e de graça.</p></div></a></li><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/artigos/"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M16 20V4H4v15a1 1 0 001 1h11zm3 2H5a3 3 0 01-3-3V3a1 1 0 011-1h14a1 1 0 011 1v7h4v9a3 3 0 01-3 3zm-1-10v7a1 1 0 002 0v-7h-2zM6 6h6v6H6V6zm2 2v2h2V8H8zm-2 5h8v2H6v-2zm0 3h8v2H6v-2z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M16 20V4H4v15a1 1 0 001 1h11zm3 2H5a3 3 0 01-3-3V3a1 1 0 011-1h14a1 1 0 011 1v7h4v9a3 3 0 01-3 3zm-1-10v7a1 1 0 002 0v-7h-2zM6 6h6v6H6V6zm2 2v2h2V8H8zm-2 5h8v2H6v-2zm0 3h8v2H6v-2z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Artigos</p><p class="topbar-flat-menu-item-description">Leia opiniões, análises e orientações sobre diversos assuntos do direito.</p></div></a></li><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/noticias/"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M16 20V4H4v15a1 1 0 001 1h11zm3 2H5a3 3 0 01-3-3V3a1 1 0 011-1h14a1 1 0 011 1v7h4v9a3 3 0 01-3 3zm-1-10v7a1 1 0 002 0v-7h-2zM6 6h6v6H6V6zm2 2v2h2V8H8zm-2 5h8v2H6v-2zm0 3h8v2H6v-2z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M16 20V4H4v15a1 1 0 001 1h11zm3 2H5a3 3 0 01-3-3V3a1 1 0 011-1h14a1 1 0 011 1v7h4v9a3 3 0 01-3 3zm-1-10v7a1 1 0 002 0v-7h-2zM6 6h6v6H6V6zm2 2v2h2V8H8zm-2 5h8v2H6v-2zm0 3h8v2H6v-2z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Notícias</p><p class="topbar-flat-menu-item-description">Acompanhe diariamente os principais acontecimentos jurídicos do Brasil e do mundo.</p></div></a></li><li><a class="topbar-flat-menu-item" href="https://www.jusbrasil.com.br/l/advogados-online"><div><div class="topbar-flat-menu-item-icon"><raw class="topbar-flat-menu-item-icon-raw" html="<svg fill=&quot;currentColor&quot; width=&quot;24&quot; height=&quot;24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;><path d=&quot;M12 14v2a6 6 0 00-6 6H4a8 8 0 018-8zm0-1c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm0-2c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm9.446 9.032l1.504 1.504-1.414 1.414-1.504-1.504a4 4 0 111.414-1.414zM18 20a2 2 0 100-4 2 2 0 000 4z&quot; fill=&quot;#151A1F&quot;></path></svg>"><svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M12 14v2a6 6 0 00-6 6H4a8 8 0 018-8zm0-1c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm0-2c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm9.446 9.032l1.504 1.504-1.414 1.414-1.504-1.504a4 4 0 111.414-1.414zM18 20a2 2 0 100-4 2 2 0 000 4z" fill="#151A1F"></path></svg></raw></div></div><div class="topbar-flat-menu-item-info"><p class="topbar-flat-menu-item-title">Encontre uma pessoa advogada</p><p class="topbar-flat-menu-item-description">Precisa de ajuda jurídica? Temos um diretório inteiro à sua disposição.</p></div></a></li></ul><div class="topbar-flat-menu-footer"><div class="topbar-flat-menu-divider"></div><footer-links><ul class="topbar-flat-menu-footer-list"><li><a class="topbar-flat-menu-footer-link" href="https://sobre.jusbrasil.com.br"><p class="topbar-flat-menu-footer-text">Sobre o Jusbrasil</p></a></li><li><a class="topbar-flat-menu-footer-link" href="https://sobre.jusbrasil.com.br/carreiras"><p class="topbar-flat-menu-footer-text">Carreira</p></a></li><li><a class="topbar-flat-menu-footer-link" href="https://www.jusbrasil.com.br/newsletter"><p class="topbar-flat-menu-footer-text">Newsletter</p></a></li></ul></footer-links><div class="topbar-flat-menu-divider"></div><footer-links><ul class="topbar-flat-menu-footer-list"><li><a class="topbar-flat-menu-footer-link" href="https://www.jusbrasil.com.br/ajuda"><p class="topbar-flat-menu-footer-text">Ajuda e Suporte</p></a></li><li><a class="topbar-flat-menu-footer-link" href="https://www.jusbrasil.com.br/termos-de-uso"><p class="topbar-flat-menu-footer-text">Termos de Uso</p></a></li><li><a class="topbar-flat-menu-footer-link" href="https://www.jusbrasil.com.br/politica-de-privacidade"><p class="topbar-flat-menu-footer-text">Política de Privacidade</p></a></li><li><a class="topbar-flat-menu-footer-link" href="https://www.jusbrasil.com.br/seguranca-e-privacidade"><p class="topbar-flat-menu-footer-text">Proteção de Dados</p></a></li></ul></footer-links></div></div></div><div class="topbar-flat-menu-overlay"></div></div></nav><lgpd-cookie-terms></lgpd-cookie-terms></topbar-flat> </div><script>window.topbarInitialState= {"app":"jusbrasil","mobile":false,"os":null,"deviceInfo":{"user_agent":"Go-http-client/2.0","dvce_type":"desktop","dvce_ismobile":false},"store":{"user":null,"profiles":[],"options":{"isFlat":true,"artifact":null,"fluid":false,"hideNavbar":false,"enableNewNavigation":false,"fixed":true,"hidePublishButton":false,"extraProps":{}},"takeover":false,"forceHideAlertbar":false}}</script><script async src="https://static.jusbr.com/topbar/flat.048f1179e8fe2b7f877a.js"></script>
+
+  <div class="NewHomeSearch ">
+  <div class="NewHomeSearch-wrapper">
+    <header class="container NewHomeSearch-container">
+
+      <div class="NewHomeSearch-info">
+        <h1 class="NewHomeSearch-info-title">Jusbrasil</h1>
+        <img class="NewHomeSearch-logo" src="//static.jusbr.com/images/logo/logo-jusbrasil-text.svg" alt="Marca da Jusbrasil"/>
+      </div>
+
+      <form action="/busca" id="autocomplete-form" class="form-group form-group-autocomplete NewHomeSearch-autocomplete-form">
+        <div class="input-group NewHomeSearch-autocomplete-group">
+          <div id="artifact-dropdown" class="dropdown artifact-dropdown">
+            <button id="toggle-button" class="NewHomeSearch-toggle-btn" type="button" data-toggle="dropdown">
+              <span id="artifact-label" class="NewHomeSearch-toggle-btn-label" data-artifact="general">Todos</span>
+              <span class="NewHomeSearch-toggle-btn-icon">
+                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M16 17.172L20.95 12.222L22.364 13.636L16 20L9.636 13.636L11.05 12.222L16 17.172Z" fill="#151A1F"/>
+                </svg>
+              </span>
+            </button>
+            <div id="menu-dropdown" class="NewHomeSearch-dropdown-menu">
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="GENERAL">
+                  Todos
+                </div>
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="ARTIGO_NOTICIAS">
+                  Artigos e Notícias
+                </div>
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="JURISPRUDENCIA">
+                  Jurisprudência
+                </div>
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="DIARIOS">
+                  Diários Oficiais
+                </div>
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="MODELO_PECA">
+                  Modelos
+                </div>
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="PECA">
+                  Peças
+                </div>
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="LEGISLACAO">
+                  Legislação
+                </div>
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="PERFIL">
+                  Perfis
+                </div>
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="CONSULTA_PROCESSUAL">
+                  Consulta Processual
+                </div>
+              
+                <div class="NewHomeSearch-dropdown-menu-item" role="button" tabindex="0" data-artifact="DOUTRINA">
+                  Doutrina
+                </div>
+              
+            </div>
+          </div>
+
+          <input type="text" id="autocomplete-input" class="form-control form-control--lg autocomplete-form-input NewHomeSearch-autocomplete-form-input" name="q" autocomplete="off" placeholder="Pesquisar no Jusbrasil"/>
+
+          <label class="NewHomeSearch-fake-input" for="autocomplete-input">
+            Pesquisar no Jusbrasil
+            <span class="icon icon-magnify NewHomeSearch-fake-input-icon"></span>
+          </label>
+
+          <span class="NewHomeSearch-autocomplete-back btn btn--flat btn--icon" role="button">
+            <span class="icon icon-arrow-left"></span>
+          </span>
+
+          <div class="input-group-icon NewHomeSearch-autocomplete-icon">
+            <button type="submit" class="btn btn--icon btn--flat NewHomeSearch-autocomplete-btn-submit" role="button" tabindex="0">
+              <span class="icon icon-magnify"></span>
+            </button>
+          </div>
+        </div>
+      </form>
+    </header>
+
+    <main>
+      <section class="container NewHomeSearch-container">
+        <ul class="NewHomeSearch-artifacts"><li>
+              <a class="NewHomeSearch-artifacts-item" href="https://www.jusbrasil.com.br/consulta-processual/" title="Consulta Processual">
+                <span class="NewHomeSearch-artifacts-item-icon-wrapper">
+                  <span class="NewHomeSearch-artifacts-item-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15 4H5V20H19V8H15V4ZM3 2.992C3 2.444 3.447 2 3.999 2H16L21 7V20.993C21.0009 21.1243 20.976 21.2545 20.9266 21.3762C20.8772 21.4979 20.8043 21.6087 20.7121 21.7022C20.6199 21.7957 20.5101 21.8701 20.3892 21.9212C20.2682 21.9723 20.1383 21.9991 20.007 22H3.993C3.73038 21.9982 3.47902 21.8931 3.29322 21.7075C3.10742 21.5219 3.00209 21.2706 3 21.008V2.992ZM13.529 14.446C12.6903 14.936 11.7021 15.1043 10.7485 14.9195C9.79488 14.7346 8.94106 14.2093 8.34623 13.4414C7.75139 12.6735 7.45614 11.7154 7.51553 10.7459C7.57492 9.77639 7.98489 8.86156 8.669 8.172C9.35745 7.48368 10.2733 7.07006 11.2449 7.00865C12.2165 6.94725 13.1771 7.24228 13.9467 7.83845C14.7163 8.43463 15.2421 9.29101 15.4255 10.2471C15.6089 11.2032 15.4374 12.1934 14.943 13.032L17.153 15.242L15.739 16.657L13.529 14.447V14.446ZM12.911 12.414C13.102 12.2295 13.2544 12.0088 13.3592 11.7648C13.464 11.5208 13.5192 11.2584 13.5215 10.9928C13.5238 10.7272 13.4732 10.4639 13.3726 10.2181C13.2721 9.9723 13.1236 9.749 12.9358 9.56121C12.748 9.37342 12.5247 9.22492 12.2789 9.12436C12.0331 9.02379 11.7698 8.97319 11.5042 8.9755C11.2386 8.97781 10.9762 9.03298 10.7322 9.1378C10.4882 9.24262 10.2675 9.39498 10.083 9.586C9.71868 9.9632 9.5171 10.4684 9.52165 10.9928C9.52621 11.5172 9.73655 12.0188 10.1074 12.3896C10.4782 12.7605 10.9798 12.9708 11.5042 12.9753C12.0286 12.9799 12.5338 12.7783 12.911 12.414Z" fill="#151A1F"/>
+</svg>
+</span>
+                </span>
+                <h2 class="NewHomeSearch-artifacts-item-title">Consulta Processual</h2>
+              </a>
+            </li><li>
+              <a class="NewHomeSearch-artifacts-item" href="https://www.jusbrasil.com.br/jurisprudencia/" title="Jurisprudência">
+                <span class="NewHomeSearch-artifacts-item-icon-wrapper">
+                  <span class="NewHomeSearch-artifacts-item-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13 20.314V22.314H1V20.314H13ZM13.586 1L21.364 8.778L19.95 10.194L18.89 9.84L16.413 12.314L22.07 17.971L20.656 19.385L15 13.728L12.596 16.132L12.879 17.264L11.464 18.678L3.686 10.9L5.101 9.486L6.231 9.768L12.525 3.475L12.172 2.415L13.586 1ZM14.293 4.536L7.222 11.606L10.757 15.142L17.828 8.072L14.293 4.536Z" fill="#151A1F"/>
+</svg>
+</span>
+                </span>
+                <h2 class="NewHomeSearch-artifacts-item-title">Jurisprudência</h2>
+              </a>
+            </li><li>
+              <a class="NewHomeSearch-artifacts-item" href="https://www.jusbrasil.com.br/doutrina/" title="Doutrina">
+                <span class="NewHomeSearch-artifacts-item-icon-wrapper">
+                  <span class="NewHomeSearch-artifacts-item-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 18.5V5C3 4.20435 3.31607 3.44129 3.87868 2.87868C4.44129 2.31607 5.20435 2 6 2H20C20.2652 2 20.5196 2.10536 20.7071 2.29289C20.8946 2.48043 21 2.73478 21 3V21C21 21.2652 20.8946 21.5196 20.7071 21.7071C20.5196 21.8946 20.2652 22 20 22H6.5C5.57174 22 4.6815 21.6313 4.02513 20.9749C3.36875 20.3185 3 19.4283 3 18.5ZM19 20V17H6.5C6.10218 17 5.72064 17.158 5.43934 17.4393C5.15804 17.7206 5 18.1022 5 18.5C5 18.8978 5.15804 19.2794 5.43934 19.5607C5.72064 19.842 6.10218 20 6.5 20H19ZM10 4H6C5.73478 4 5.48043 4.10536 5.29289 4.29289C5.10536 4.48043 5 4.73478 5 5V15.337C5.46869 15.1144 5.98115 14.9993 6.5 15H19V4H17V12L13.5 10L10 12V4Z" fill="#151A1F"/>
+</svg>
+</span>
+                </span>
+                <h2 class="NewHomeSearch-artifacts-item-title">Doutrina</h2>
+              </a>
+            </li><li>
+              <a class="NewHomeSearch-artifacts-item" href="https://www.jusbrasil.com.br/pecas/" title="Peças">
+                <span class="NewHomeSearch-artifacts-item-icon-wrapper">
+                  <span class="NewHomeSearch-artifacts-item-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M19 2C19.552 2 20 2.448 20 3V6.757L18 8.757V4H4V20H18V17.242L20 15.242V21C20 21.552 19.552 22 19 22H3C2.448 22 2 21.552 2 21V3C2 2.448 2.448 2 3 2H19ZM20.778 8.808L22.192 10.222L14.414 18L12.998 17.998L13 16.586L20.778 8.808ZM12 12V14H7V12H12ZM15 8V10H7V8H15Z" fill="#151A1F"/>
+</svg>
+</span>
+                </span>
+                <h2 class="NewHomeSearch-artifacts-item-title">Peças</h2>
+              </a>
+            </li><li>
+              <a class="NewHomeSearch-artifacts-item" href="https://www.jusbrasil.com.br/legislacao/" title="Legislação">
+                <span class="NewHomeSearch-artifacts-item-icon-wrapper">
+                  <span class="NewHomeSearch-artifacts-item-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 20H22V22H2V20ZM4 12H6V19H4V12ZM9 12H11V19H9V12ZM13 12H15V19H13V12ZM18 12H20V19H18V12ZM2 7L12 2L22 7V11H2V7ZM4 8.236V9H20V8.236L12 4.236L4 8.236ZM12 8C11.7348 8 11.4804 7.89464 11.2929 7.70711C11.1054 7.51957 11 7.26522 11 7C11 6.73478 11.1054 6.48043 11.2929 6.29289C11.4804 6.10536 11.7348 6 12 6C12.2652 6 12.5196 6.10536 12.7071 6.29289C12.8946 6.48043 13 6.73478 13 7C13 7.26522 12.8946 7.51957 12.7071 7.70711C12.5196 7.89464 12.2652 8 12 8Z" fill="#151A1F"/>
+</svg>
+</span>
+                </span>
+                <h2 class="NewHomeSearch-artifacts-item-title">Legislação</h2>
+              </a>
+            </li><li>
+              <a class="NewHomeSearch-artifacts-item" href="https://www.jusbrasil.com.br/modelos-pecas/" title="Modelos">
+                <span class="NewHomeSearch-artifacts-item-icon-wrapper">
+                  <span class="NewHomeSearch-artifacts-item-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 10H2V4.003C2 3.449 2.455 3 2.992 3H21.008C21.1393 2.99973 21.2693 3.02556 21.3905 3.07601C21.5117 3.12645 21.6217 3.2005 21.714 3.29383C21.8063 3.38717 21.8791 3.49794 21.9282 3.61969C21.9773 3.74144 22.0017 3.87173 22 4.003V10H21V20.001C21.0004 20.1318 20.975 20.2614 20.9253 20.3824C20.8756 20.5034 20.8026 20.6134 20.7104 20.7062C20.6182 20.7989 20.5086 20.8726 20.3879 20.923C20.2672 20.9735 20.1378 20.9996 20.007 21H3.993C3.8622 20.9996 3.73276 20.9735 3.61207 20.923C3.49139 20.8726 3.38181 20.7989 3.2896 20.7062C3.19739 20.6134 3.12436 20.5034 3.07467 20.3824C3.02498 20.2614 2.99961 20.1318 3 20.001V10ZM19 10H5V19H19V10ZM4 5V8H20V5H4ZM9 12H15V14H9V12Z" fill="#151A1F"/>
+</svg>
+</span>
+                </span>
+                <h2 class="NewHomeSearch-artifacts-item-title">Modelos</h2>
+              </a>
+            </li><li>
+              <a class="NewHomeSearch-artifacts-item" href="https://www.jusbrasil.com.br/advogados/" title="Advogados">
+                <span class="NewHomeSearch-artifacts-item-icon-wrapper">
+                  <span class="NewHomeSearch-artifacts-item-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 14V16C10.4087 16 8.88258 16.6321 7.75736 17.7574C6.63214 18.8826 6 20.4087 6 22H4C4 19.8783 4.84285 17.8434 6.34315 16.3431C7.84344 14.8429 9.87827 14 12 14ZM12 13C8.685 13 6 10.315 6 7C6 3.685 8.685 1 12 1C15.315 1 18 3.685 18 7C18 10.315 15.315 13 12 13ZM12 11C14.21 11 16 9.21 16 7C16 4.79 14.21 3 12 3C9.79 3 8 4.79 8 7C8 9.21 9.79 11 12 11ZM21.446 20.032L22.95 21.536L21.536 22.95L20.032 21.446C19.1933 21.9405 18.2031 22.1121 17.247 21.9288C16.2908 21.7454 15.4343 21.2196 14.8381 20.4499C14.2419 19.6802 13.9469 18.7195 14.0083 17.7479C14.0698 16.7762 14.4835 15.8604 15.1719 15.1719C15.8604 14.4835 16.7762 14.0698 17.7479 14.0083C18.7195 13.9469 19.6802 14.2419 20.4499 14.8381C21.2196 15.4343 21.7454 16.2908 21.9288 17.247C22.1121 18.2031 21.9405 19.1933 21.446 20.032ZM18 20C18.5304 20 19.0391 19.7893 19.4142 19.4142C19.7893 19.0391 20 18.5304 20 18C20 17.4696 19.7893 16.9609 19.4142 16.5858C19.0391 16.2107 18.5304 16 18 16C17.4696 16 16.9609 16.2107 16.5858 16.5858C16.2107 16.9609 16 17.4696 16 18C16 18.5304 16.2107 19.0391 16.5858 19.4142C16.9609 19.7893 17.4696 20 18 20Z" fill="#151A1F"/>
+</svg>
+</span>
+                </span>
+                <h2 class="NewHomeSearch-artifacts-item-title">Advogados</h2>
+              </a>
+            </li><li>
+              <a class="NewHomeSearch-artifacts-item" href="https://www.jusbrasil.com.br/diarios/" title="Diários Oficiais">
+                <span class="NewHomeSearch-artifacts-item-icon-wrapper">
+                  <span class="NewHomeSearch-artifacts-item-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 2C20.7956 2 21.5587 2.31607 22.1213 2.87868C22.6839 3.44129 23 4.20435 23 5V7H21V19C21 19.7956 20.6839 20.5587 20.1213 21.1213C19.5587 21.6839 18.7956 22 18 22H4C3.20435 22 2.44129 21.6839 1.87868 21.1213C1.31607 20.5587 1 19.7956 1 19V17H17V19C17 19.2449 17.09 19.4813 17.2527 19.6644C17.4155 19.8474 17.6397 19.9643 17.883 19.993L18 20C18.2449 20 18.4813 19.91 18.6644 19.7473C18.8474 19.5845 18.9643 19.3603 18.993 19.117L19 19V4H6C5.75507 4.00003 5.51866 4.08996 5.33563 4.25272C5.15259 4.41547 5.03566 4.63975 5.007 4.883L5 5V15H3V5C3 4.20435 3.31607 3.44129 3.87868 2.87868C4.44129 2.31607 5.20435 2 6 2H20Z" fill="#151A1F"/>
+</svg>
+</span>
+                </span>
+                <h2 class="NewHomeSearch-artifacts-item-title">Diários Oficiais</h2>
+              </a>
+            </li></ul>
+
+        <p>
+          <a class="NewHomeSearch-opportunities" href="https://www.jusbrasil.com.br/l/advogados-online">
+            <span class="NewHomeSearch-opportunities-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.29101 20.824L2.00001 22L3.17601 16.709C2.40154 15.2604 1.99754 13.6426 2.00001 12C2.00001 6.477 6.47701 2 12 2C17.523 2 22 6.477 22 12C22 17.523 17.523 22 12 22C10.3574 22.0025 8.73963 21.5985 7.29101 20.824ZM7.58101 18.711L8.23401 19.061C9.39256 19.6801 10.6864 20.0027 12 20C13.5823 20 15.129 19.5308 16.4446 18.6518C17.7602 17.7727 18.7855 16.5233 19.391 15.0615C19.9965 13.5997 20.155 11.9911 19.8463 10.4393C19.5376 8.88743 18.7757 7.46197 17.6569 6.34315C16.538 5.22433 15.1126 4.4624 13.5607 4.15372C12.0089 3.84504 10.4004 4.00346 8.93854 4.60896C7.47674 5.21447 6.22731 6.23984 5.34825 7.55544C4.4692 8.87103 4.00001 10.4177 4.00001 12C4.00001 13.334 4.32501 14.618 4.94001 15.766L5.28901 16.419L4.63401 19.366L7.58101 18.711Z" fill="#151A1F"/>
+</svg>
+</span>
+            Fale agora com um advogado online
+          </a>
+        </p>
+      </section>
+    </main>
+  </div>
+
+  <footer class="NewHomeSearch-footer">
+    <ul class="NewHomeSearch-footer-list">
+      <li class="NewHomeSearch-footer-item">
+        <a class="link--gray" href="https://sobre.jusbrasil.com.br">Sobre o Jusbrasil</a>
+      </li>
+      <li class="NewHomeSearch-footer-item">
+        <a class="link--gray" href="https://www.jusbrasil.com.br/ajuda">Ajuda</a>
+      </li>
+      <li class="NewHomeSearch-footer-item">
+        <a class="link--gray" href="https://www.jusbrasil.com.br/pro">Seja Assinante</a>
+      </li>
+      <li class="NewHomeSearch-footer-item">
+        <a class="link--gray" href="https://insight.jusbrasil.com.br">API Jusbrasil</a>
+      </li>
+      <li class="NewHomeSearch-footer-item">
+        <a class="link--gray" href="https://www.jusbrasil.com.br/seguranca-e-privacidade">Segurança e Privacidade</a>
+      </li>
+      <li class="NewHomeSearch-footer-item">
+        <a class="link--gray" href="https://www.jusbrasil.com.br/termos-de-uso">Termos de Uso</a>
+      </li>
+    </ul>
+  </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/script.js/2.5.8/script.min.js"></script>
+
+<script>
+  // jQuery
+  $script('https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js', 'jquery');
+</script>
+<script>$script("//static.jusbr.com/deadpool/home/new-search-home/js/index-8965ae1f.js");</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@graph":[
+    {
+      "@context":"https://schema.org",
+      "@type":"Organization",
+      "name":"Jusbrasil",
+      "description":"Acesse o Jusbrasil para Consulta Processual nos Tribunais, Pesquisa de Jurisprudência, Legislação, Doutrina, Modelos, Peças Jurídicas e mais para facilitar pesquisas e acompanhar processos. Através da plataforma disponibilizamos informação jurídica gratuita para pessoas e profissionais do Direito, além de ser a maior comunidade de advogados cadastrados que interagem na comunidade e podem ser contatados para auxiliar nos diversos casos das diferentes esferas.",
+      "url":"https://www.jusbrasil.com.br",
+      "alternateName":"Jus",
+      "logo":"https://static.jusbr.com/images/logo/logo-jusbrasil-1200-1200.png",
+      "sameAs":[
+        "https://www.facebook.com/Jusbrasil/",
+        "https://twitter.com/jusbrasil",
+        "https://www.instagram.com/jusbrasil/",
+        "https://www.youtube.com/jusbrasil",
+        "https://www.linkedin.com/company/jusbrasil/",
+        "https://www.jusbrasil.com.br"
+      ]
+    },
+    {
+      "@context":"https://schema.org",
+      "@type":"WebSite",
+      "url":"https://www.jusbrasil.com.br",
+      "potentialAction":{
+        "@type":"SearchAction",
+        "target":"https://www.jusbrasil.com.br/busca?utm_source=searchbox_sitelink&q={search_term_string}",
+        "query-input":"required name=search_term_string"
+      }
+    },
+    {
+      "@context":"https://schema.org",
+      "@type":"WebPage",
+      "name":"Jusbrasil",
+      "description":"Acesse o Jusbrasil para Consulta Processual nos Tribunais, Pesquisa de Jurisprudência, Legislação, Doutrina, Modelos, Peças Jurídicas e mais para facilitar pesquisas e acompanhar processos. Através da plataforma disponibilizamos informação jurídica gratuita para pessoas e profissionais do Direito, além de ser a maior comunidade de advogados cadastrados que interagem na comunidade e podem ser contatados para auxiliar nos diversos casos das diferentes esferas.",
+      "url":"https://www.jusbrasil.com.br",
+      "image":{
+        "@type":"ImageObject",
+        "name":"Jusbrasil Fallback",
+        "url":"https://static.jusbr.com/images/logo/logo-jusbrasil-1200-675.png",
+        "height":"675",
+        "width":"1200"
+      }
+    },
+    {
+      "@context":"https://schema.org",
+      "@type":"BreadcrumbList",
+      "itemListElement":[
+        {
+          "@type":"ListItem",
+          "position":1,
+          "name":"Home",
+          "item":"https://www.jusbrasil.com.br"
+        }
+      ]
+    },
+    {
+      "@context":"http://schema.org",
+      "@graph":[
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Home",
+          "url":"https://www.jusbrasil.com.br"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Consulta Processual",
+          "url":"https://www.jusbrasil.com.br/consulta-processual/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Jurisprudência",
+          "url":"https://www.jusbrasil.com.br/jurisprudencia/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Doutrina",
+          "url":"https://www.jusbrasil.com.br/doutrina/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Artigos",
+          "url":"https://www.jusbrasil.com.br/artigos/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Notícias",
+          "url":"https://www.jusbrasil.com.br/noticias/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Diários Oficiais",
+          "url":"https://www.jusbrasil.com.br/diarios/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Peças",
+          "url":"https://www.jusbrasil.com.br/pecas/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Modelos",
+          "url":"https://www.jusbrasil.com.br/modelos-pecas/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Legislação",
+          "url":"https://www.jusbrasil.com.br/legislacao/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Advogados",
+          "url":"https://www.jusbrasil.com.br/advogados/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Sobre o Jusbrasil",
+          "url":"https://sobre.jusbrasil.com.br/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Carreira",
+          "url":"https://sobre.jusbrasil.com.br/carreiras/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Newsletter",
+          "url":"https://www.jusbrasil.com.br/newsletter/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Ajuda e Suporte",
+          "url":"https://suporte.jusbrasil.com.br/hc/pt-br/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Termos de Uso",
+          "url":"https://suporte.jusbrasil.com.br/hc/pt-br/articles/360041534072-Termos-de-Uso-da-Plataforma-Jusbrasil/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Política e Privacidade",
+          "url":"https://suporte.jusbrasil.com.br/hc/pt-br/articles/360041534212-Política-de-Privacidade-da-Plataforma-Jusbrasil/"
+        },
+        {
+          "@type":"SiteNavigationElement",
+          "name":"Proteção de Dados",
+          "url":"https://suporte.jusbrasil.com.br/hc/pt-br/sections/360009858251-Segurança-e-Privacidade-de-Dados-no-Jusbrasil/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+<script>JB.init();</script>
+  <script>(function(){window['__CF$cv$params']={r:'73f0993f5833a632',m:'GLY08.8o9yENuXwlb3ppHhKX9glRBhdNzCUHxR79FAg-1661223634-0-AfLvDGq5j+H89jRMwUzDjPt6r419tVljzRGvPC9GqRHp2G8bAhqr1Mg3jgIQbgR3oPuWfLn41Oqn0M3X9TLcuC/25pKxFu8jUmw8gwSqS00nm29DXKnHdsKviV3fpd1rgA==',s:[0x4d7a1fcc94,0x2b58d1dbbf],}})();</script></body>
+</html>
+http://www.google.com.br
+200 OK
+<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="pt-BR"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script nonce="nbJ8FSeLBQ3f65SgwKT2Uw">(function(){window.google={kEI:'0kIEY-WyBfqJ5OUP-MuJ8AE',kEXPI:'0,1302536,56873,6059,206,2415,2389,2316,383,246,5,5367,1123753,1197755,646,380089,16115,17444,11240,17572,4858,1362,283,9008,3028,2815,14765,4998,13228,3847,10622,22741,6674,1279,2744,147,1103,840,2197,4100,3514,606,2025,1775,520,14670,3227,2845,8,29074,4696,4464,13142,3,346,230,6459,149,13975,4,1528,2304,7039,22023,3050,2658,4164,3191,13660,21223,5806,2551,4094,4052,3,3541,1,42154,2,14022,2373,11743,9865,1758,6700,2378,28743,4569,6258,23418,1252,5835,14967,4333,5016,2468,445,2,2,1,6960,19672,8047,108,6582,799,14680,1289,874,19635,5,1922,9779,23,6865,10751,4140,1129,1515,6898,1997,1376,1460,2523,3240,191,3383,1,4,1,2,223,2,1,2029,625,3255,484,68,984,122,700,4,1,2,2,2,2,3847,3228,7,1,770,549,3111,2404,532,11,664,7470,1710,2775,1710,14,82,326,329,2,767,450,1851,249,42,135,456,34,81,365,39,432,783,368,1458,2,3,1478,2,107,172,484,276,2,4,593,1525,507,173,288,420,227,2029,441,290,860,70,175,802,716,47,53,302,463,517,45,63,514,856,866,6,977,5357347,5100,428,153,8799442,3452,795,2,19734,1,298,48,1194,1,20729270,3220020,487,4041655,1964,3094,11203,2376,3405,7173,1191,1033,1375946,57089',kBL:'i25T'};google.sn='webhp';google.kHL='pt-BR';})();(function(){
+var f=this||self;var h,k=[];function l(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||h}function m(a){for(var b=null;a&&(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b}
+function n(a,b,c,d,g){var e="";c||-1!==b.search("&ei=")||(e="&ei="+l(d),-1===b.search("&lei=")&&(d=m(d))&&(e+="&lei="+d));d="";!c&&f._cshid&&-1===b.search("&cshid=")&&"slh"!==a&&(d="&cshid="+f._cshid);c=c||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+e+"&zx="+Date.now()+d;/^http:/i.test(c)&&"https:"===window.location.protocol&&(google.ml&&google.ml(Error("a"),!1,{src:c,glmm:1}),c="");return c};h=google.kEI;google.getEI=l;google.getLEI=m;google.ml=function(){return null};google.log=function(a,b,c,d,g){if(c=n(a,b,c,d,g)){a=new Image;var e=k.length;k[e]=a;a.onerror=a.onload=a.onabort=function(){delete k[e]};a.src=c}};google.logUrl=n;}).call(this);(function(){
+google.y={};google.sy=[];google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.sx=function(a){google.sy.push(a)};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};google.bx=!1;google.lx=function(){};}).call(this);google.f={};(function(){
+document.documentElement.addEventListener("submit",function(b){var a;if(a=b.target){var c=a.getAttribute("data-submitfalse");a="1"===c||"q"===c&&!a.elements.q.value?!0:!1}else a=!1;a&&(b.preventDefault(),b.stopPropagation())},!0);document.documentElement.addEventListener("click",function(b){var a;a:{for(a=b.target;a&&a!==document.documentElement;a=a.parentElement)if("A"===a.tagName){a="1"===a.getAttribute("data-nohref");break a}a=!1}a&&b.preventDefault()},!0);}).call(this);</script><style>#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+</style><style>body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#1558d6}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}body{background:#fff;color:#000}a{color:#4b11a8;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#1558d6}a:visited{color:#4b11a8}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#f8f9fa;border:solid 1px;border-color:#dadce0 #70757a #70757a #dadce0;height:30px}.lsbb{display:block}#WqQANb a{display:inline-block;margin:0 12px}.lsb{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#dadce0}.lst:focus{outline:none}.tiah{width:458px}</style><script nonce="nbJ8FSeLBQ3f65SgwKT2Uw">(function(){window.google.erd={jsr:1,bv:1637,de:true};
+var h=this||self;var k,l=null!=(k=h.mei)?k:1,n,p=null!=(n=h.sdo)?n:!0,q=0,r,t=google.erd,v=t.jsr;google.ml=function(a,b,d,m,e){e=void 0===e?2:e;b&&(r=a&&a.message);if(google.dl)return google.dl(a,e,d),null;if(0>v){window.console&&console.error(a,d);if(-2===v)throw a;b=!1}else b=!a||!a.message||"Error loading script"===a.message||q>=l&&!m?!1:!0;if(!b)return null;q++;d=d||{};b=encodeURIComponent;var c="/gen_204?atyp=i&ei="+b(google.kEI);google.kEXPI&&(c+="&jexpid="+b(google.kEXPI));c+="&srcpg="+b(google.sn)+"&jsr="+b(t.jsr)+"&bver="+b(t.bv);var f=a.lineNumber;void 0!==f&&(c+="&line="+f);var g=
+a.fileName;g&&(0<g.indexOf("-extension:/")&&(e=3),c+="&script="+b(g),f&&g===window.location.href&&(f=document.documentElement.outerHTML.split("\n")[f],c+="&cad="+b(f?f.substring(0,300):"No script found.")));c+="&jsel="+e;for(var u in d)c+="&",c+=b(u),c+="=",c+=b(d[u]);c=c+"&emsg="+b(a.name+": "+a.message);c=c+"&jsst="+b(a.stack||"N/A");12288<=c.length&&(c=c.substr(0,12288));a=c;m||google.log(0,"",a);return a};window.onerror=function(a,b,d,m,e){r!==a&&(a=e instanceof Error?e:Error(a),void 0===d||"lineNumber"in a||(a.lineNumber=d),void 0===b||"fileName"in a||(a.fileName=b),google.ml(a,!1,void 0,!1,"SyntaxError"===a.name||"SyntaxError"===a.message.substring(0,11)||0<a.message.indexOf("Script error")?2:0));r=null;p&&q>=l&&(window.onerror=null)};})();</script></head><body bgcolor="#fff"><script nonce="nbJ8FSeLBQ3f65SgwKT2Uw">(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
+if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
+}
+})();</script><div id="mngb"><div id=gbar><nobr><b class=gb1>Pesquisa</b> <a class=gb1 href="http://www.google.com.br/imghp?hl=pt-BR&tab=wi">Imagens</a> <a class=gb1 href="http://maps.google.com.br/maps?hl=pt-BR&tab=wl">Maps</a> <a class=gb1 href="https://play.google.com/?hl=pt-BR&tab=w8">Play</a> <a class=gb1 href="https://www.youtube.com/?tab=w1">YouTube</a> <a class=gb1 href="https://news.google.com/?tab=wn">Not�cias</a> <a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=wo">Drive</a> <a class=gb1 style="text-decoration:none" href="https://www.google.com.br/intl/pt-BR/about/products?tab=wh"><u>Mais</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com.br/history/optout?hl=pt-BR" class=gb4>Hist�rico da Web</a> | <a  href="/preferences?hl=pt-BR" class=gb4>Configura��es</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=pt-BR&passive=true&continue=http://www.google.com.br/&ec=GAZAAQ" class=gb4>Fazer login</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div></div><center><br clear="all" id="lgpd"><div id="lga"><img alt="Google" height="92" src="/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png" style="padding:28px 0 14px" width="272" id="hplogo"><br><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%">&nbsp;</td><td align="center" nowrap=""><input name="ie" value="ISO-8859-1" type="hidden"><input value="pt-BR" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><input name="biw" type="hidden"><input name="bih" type="hidden"><div class="ds" style="height:32px;margin:4px 0"><div style="position:relative;zoom:1"><input class="lst tiah" style="margin:0;padding:5px 8px 0 6px;vertical-align:top;color:#000;padding-right:38px" autocomplete="off" value="" title="Pesquisa Google" maxlength="2048" name="q" size="57"><img src="/textinputassistant/tia.png" style="position:absolute;cursor:pointer;right:5px;top:4px;z-index:300" data-script-url="/textinputassistant/11/pt-BR_tia.js" id="tsuid1" alt="" height="23" width="27"><script nonce="nbJ8FSeLBQ3f65SgwKT2Uw">(function(){var id='tsuid1';document.getElementById(id).onclick = function(){var s = document.createElement('script');s.src = this.getAttribute('data-script-url');(document.getElementById('xjsc')||document.body).appendChild(s);};})();</script></div></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Pesquisa Google" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" id="tsuid2" value="Estou com sorte" name="btnI" type="submit"><script nonce="nbJ8FSeLBQ3f65SgwKT2Uw">(function(){var id='tsuid2';document.getElementById(id).onclick = function(){if (this.form.q.value){this.checked = 1;if (this.form.iflsig)this.form.iflsig.disabled = false;}
+else top.location='/doodles/';};})();</script><input value="AJiK0e8AAAAAYwRQ4hCW9D4fkINBAdryAJ85sbkgwanI" name="iflsig" type="hidden"></span></span></td><td class="fl sblc" align="left" nowrap="" width="25%"><a href="/advanced_search?hl=pt-BR&amp;authuser=0">Pesquisa avan�ada</a></td></tr></table><input id="gbv" name="gbv" type="hidden" value="1"><script nonce="nbJ8FSeLBQ3f65SgwKT2Uw">(function(){
+var a,b="1";if(document&&document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject){var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try{new ActiveXObject(d),b="2"}catch(h){}}a=b;if("2"==a&&-1==location.search.indexOf("&gbv=2")){var f=google.gbvu,g=document.getElementById("gbv");g&&(g.value=a);f&&window.setTimeout(function(){location.href=f},0)};}).call(this);</script></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br></div><span id="footer"><div style="font-size:10pt"><div style="margin:19px auto;text-align:center" id="WqQANb"><a href="/intl/pt-BR/ads/">Solu��es de publicidade</a><a href="/services/">Solu��es empresariais</a><a href="/intl/pt-BR/about.html">Sobre o Google</a><a href="http://www.google.com.br/setprefdomain?prefdom=US&amp;sig=K_brrCzGlncUdBJmB3VEbuVpWIW18%3D" id="fehl">Google.com</a></div></div><p style="font-size:8pt;color:#70757a">&copy; 2022 - <a href="/intl/pt-BR/policies/privacy/">Privacidade</a> - <a href="/intl/pt-BR/policies/terms/">Termos</a></p></span></center><script nonce="nbJ8FSeLBQ3f65SgwKT2Uw">(function(){window.google.cdo={height:757,width:1440};(function(){
+var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();</script> <script nonce="nbJ8FSeLBQ3f65SgwKT2Uw">(function(){google.xjs={ck:'xjs.hp.i2VtdgRP0vA.L.X.O',cs:'ACT90oHSBfJWY5fBG_1dImYJJAvURPv2-Q',excm:[]};})();</script>  <script nonce="nbJ8FSeLBQ3f65SgwKT2Uw">(function(){var u='/xjs/_/js/k\x3dxjs.hp.en.FPK6Be0AtwQ.O/am\x3dDgCeAAAkAEAB/d\x3d1/ed\x3d1/rs\x3dACT90oGG5MWya9ZPducihx7LlXei8LAfpQ/m\x3dsb_he,d';
+var d=this||self,e=function(a){return a};
+var g;var l=function(a,b){this.g=b===h?a:""};l.prototype.toString=function(){return this.g+""};var h={};function n(){var a=u;google.lx=function(){p(a);google.lx=function(){}};google.bx||google.lx()}
+function p(a){google.timers&&google.timers.load&&google.tick&&google.tick("load","xjsls");var b=document;var c="SCRIPT";"application/xhtml+xml"===b.contentType&&(c=c.toLowerCase());c=b.createElement(c);if(void 0===g){b=null;var k=d.trustedTypes;if(k&&k.createPolicy){try{b=k.createPolicy("goog#html",{createHTML:e,createScript:e,createScriptURL:e})}catch(q){d.console&&d.console.error(q.message)}g=b}else g=b}a=(b=g)?b.createScriptURL(a):a;a=new l(a,h);c.src=a instanceof l&&a.constructor===l?a.g:"type_error:TrustedResourceUrl";var f,m;(f=(a=null==(m=(f=(c.ownerDocument&&c.ownerDocument.defaultView||window).document).querySelector)?void 0:m.call(f,"script[nonce]"))?a.nonce||a.getAttribute("nonce")||"":"")&&c.setAttribute("nonce",f);document.body.appendChild(c);google.psa=!0};google.xjsu=u;setTimeout(function(){n()},0);})();function _DumpException(e){throw e;}
+function _F_installCss(c){}
+(function(){google.jl={blt:'none',chnk:0,dw:false,dwu:true,emtn:0,end:0,ine:false,injs:'none',injt:0,injth:0,injv2:false,lls:'default',pdt:0,rep:0,snet:true,strt:0,ubm:false,uwp:true};})();(function(){var pmc='{\x22d\x22:{},\x22sb_he\x22:{\x22agen\x22:true,\x22cgen\x22:true,\x22client\x22:\x22heirloom-hp\x22,\x22dh\x22:true,\x22dhqt\x22:true,\x22ds\x22:\x22\x22,\x22ffql\x22:\x22pt-BR\x22,\x22fl\x22:true,\x22host\x22:\x22google.com.br\x22,\x22isbh\x22:28,\x22jsonp\x22:true,\x22msgs\x22:{\x22cibl\x22:\x22Limpar pesquisa\x22,\x22dym\x22:\x22Voc� quis dizer:\x22,\x22lcky\x22:\x22Estou com sorte\x22,\x22lml\x22:\x22Saiba mais\x22,\x22oskt\x22:\x22Ferramentas de inser��o de texto\x22,\x22psrc\x22:\x22Esta pesquisa foi removida do seu\\u003Ca href\x3d\\\x22/history\\\x22\\u003EHist�rico da web\\u003C/a\\u003E\x22,\x22psrl\x22:\x22Remover\x22,\x22sbit\x22:\x22Pesquisa por imagem\x22,\x22srch\x22:\x22Pesquisa Google\x22},\x22ovr\x22:{},\x22pq\x22:\x22\x22,\x22refpd\x22:true,\x22rfs\x22:[],\x22sbas\x22:\x220 3px 8px 0 rgba(0,0,0,0.2),0 0 0 1px rgba(0,0,0,0.08)\x22,\x22sbpl\x22:16,\x22sbpr\x22:16,\x22scd\x22:10,\x22stok\x22:\x22EJPVKLfdKnFFjZqk_uDUnXi_JUE\x22,\x22uhde\x22:false}}';google.pmc=JSON.parse(pmc);})();</script>        </body></html>
