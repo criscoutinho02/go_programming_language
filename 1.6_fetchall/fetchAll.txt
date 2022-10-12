@@ -1,0 +1,6 @@
+0.40s  965016 http://g1.globo.com
+0.46s   42591 http://www.jusbrasil.com.br
+0.64s  344598 http://terra.com.br
+0.76s   17461 https://godoc.org
+1.79s    4154 http://gopl.io
+1.79s elapsed
